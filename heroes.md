@@ -9,3 +9,4 @@
 * Volcán Negro
 * Volcan Azul
 * Zoom
+* Flash
