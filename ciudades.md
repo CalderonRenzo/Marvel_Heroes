@@ -1,5 +1,5 @@
 # Ciudades
 
-1. Ciudad Persa
-2. Pueblo Paleta
-3. Hell's Kitchen 
+1. Ciudad Gótica
+2. Metrópolis
+3. otro pueblo
