@@ -10,3 +10,4 @@
 * Volcan Azul
 * Zoom
 * Flash
+* Deadpool
