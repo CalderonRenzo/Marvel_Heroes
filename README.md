@@ -6,3 +6,5 @@ solo para heroes desde Github
 
 ## Notas
 instrucciones a realizar
+
+Nuevas notas desde GitHub
