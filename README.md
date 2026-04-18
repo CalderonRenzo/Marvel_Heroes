@@ -1,8 +1,8 @@
-# Objetivos de la repositorio
+# Objetivos desde GiHub
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 solo para heroes desde Github
 
 
 ## Notas
-Pueden hacer lo que quieran...
+instrucciones a realizar
