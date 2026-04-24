@@ -11,3 +11,4 @@
 * Zoom
 * Flash
 * Deadpool
+* Dr Doom
