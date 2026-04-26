@@ -12,3 +12,4 @@
 * Flash
 * Deadpool
 * Dr Doom
+* Nick Fury
