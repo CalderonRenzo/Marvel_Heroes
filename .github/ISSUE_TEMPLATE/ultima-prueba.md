@@ -1,9 +1,9 @@
 ---
-name: Feature request
+name: Ultima Prueba
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: Pruebasx
+assignees: CalderonRenzo
 
 ---
 
